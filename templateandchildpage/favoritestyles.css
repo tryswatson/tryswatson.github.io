@@ -18,9 +18,8 @@
 .nav-link{color:#313131!important;}
 
 .navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus {
-    color: #E0F01D;
-    background-color: #E0F01D;
-    font-family: "Bodoni 72 Bold";
+  color: #E0F01D;
+	background-color: #E0F01D;
 }
 .center{display:block;
 margin-left:auto;
@@ -36,11 +35,11 @@ margin-right:auto;}
   white-space: nowrap;
 	color: #E0F01D!important
 }.text-center {
-    text-align: center !important;
-    font-family: "Bodoni 72 Bold"!important;
-    color: #E0F01D;
-    float: none;
-    border-collapse: separate;
+  text-align: center !important;
+	font-family:"Bodoni 72 Bold"!important;
+	color:#E0F01D;
+
+	
 }
 .text-left-sans {
     text-align: left!important;
